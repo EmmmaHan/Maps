@@ -1,8 +1,9 @@
 # Maps
 
-Project for CS61A
+Project for CS course: CS61A
 
-> - abstract.py: Data abstraction 
+> **Main Files**
+> - abstract.py: data abstraction 
 > - recommend.py: supervised and unsupervised learning algorithms for restaurant recommendation
 
 
