@@ -1,5 +1,6 @@
 # Maps
 
+Data Visualizaton using cluster algorithm for resturants on the map
 Project for CS course: CS61A  
 
 Link: https://cs61a.org/proj/maps/
